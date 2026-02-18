@@ -19,7 +19,7 @@
 |------|---------|--------|
 | 1 | 7 | Lucas Gabriel Da Silva Nardes |
 | 2 | 6 | Kaua Martins De Souza |
-| 3 | -3 | Adrian Rebinski |
+| 3 | -500 | Adrian Rebinski |
 ---
 
 ## Overview

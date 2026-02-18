@@ -13,6 +13,13 @@
 | <img loading="lazy" src="https://avatars.githubusercontent.com/u/255575500?v=4" width="115"><br><sub><a href="https://github.com/luclc13241">Lucas G. S. Nardes</a><br><span style="color:#00BFFF">💻 Desenvolvedor</span></sub> | <img loading="lazy" src="https://github.com/kauamdsouza.png" width="115"><br><sub><a href="https://github.com/kauamdsouza">Kaua M. De Souza</a><br><span style="color:#00BFFF">💻 Desenvolvedor</span></sub> | <img loading="lazy" src="https://avatars.githubusercontent.com/u/260971572?v=4" width="115"><br><sub><a href="https://github.com/AdrianEccel">Adrian Rebinski</a><br><span style="color:#00BFFF">🛵 Front-end</span></sub> | 
 | :---: | :---: | :---: |
 
+## Commit Leaderboard (últimos 30 dias)
+
+| Rank | Commits | Author |
+|------|---------|--------|
+| 1 | 7 | Lucas Gabriel Da Silva Nardes |
+| 2 | 6 | Kaua Martins De Souza |
+| 3 | -3 | Adrian Rebinski |
 ---
 
 ## Overview

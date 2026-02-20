@@ -64,27 +64,49 @@ MQTT (Broker HiveMQ): Protocolo de transporte de mensagens.
 
 Google Apps Script: Backend em JavaScript para receber requisições HTTP POST e manipular a planilha.
 
+### Dashboard
+
+Link para o dashboard: https://app.powerbi.com/view?r=eyJrIjoiN2Y0ZGFmMGYtMDg3Yy00Zjc5LTk4YzEtM2Y1Y2FmNzFlNDU5IiwidCI6IjJjZjdkNGQ1LWJkMWItNDk1Ni1hY2Y4LTI5OTUzOTliMjE2OCJ9&pageName=33252b1757420f4c1e52
+
 <img width="1252" height="703" alt="image" src="https://github.com/user-attachments/assets/216439b4-f23c-4ea7-91eb-220f5c6fb09c" />
 ---
 
-###Esquema de Ligação (Pinagem)
+### Esquema de Ligação (Pinagem)
+
 Componente
+
 Pino ESP32
+
 Tipo de Sinal
+
 DHT22 (Dados)
+
 GPIO 15
+
 Digital
+
 Potenciômetro
+
 GPIO 34
+
 Analógico (ADC)
+
 LDR
+
 GPIO 35
+
 Analógico (ADC)
+
 VCC
+
 3.3V
+
 Alimentação
+
 GND
+
 GND
+
 Terra💻 Estrutura do Fluxo (Node-RED)
 O fluxo no Node-RED segue a seguinte lógica:
 MQTT In: Subscreve ao tópico meu_projeto/sensores no broker HiveMQ.
@@ -95,4 +117,10 @@ Planilha: Crie uma planilha no Google e adicione o script fornecido no repositó
 Implantação: Publique o script como "App da Web" e configure o acesso para "Qualquer pessoa".
 Node-RED: Importe o fluxo (JSON disponível na pasta /node-red) e configure a URL do seu App da Web no nó HTTP Request.
 Hardware: Carregue o código (.ino) no seu ESP32, ajustando as credenciais de Wi-Fi.
+
+
+### Fluxograma
+
+<img width="512" height="341" alt="image" src="https://github.com/user-attachments/assets/ea239b42-e8f7-4f1a-a58e-304b00e2490e" />
+
 ```

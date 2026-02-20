@@ -64,8 +64,7 @@ MQTT (Broker HiveMQ): Protocolo de transporte de mensagens.
 
 Google Apps Script: Backend em JavaScript para receber requisições HTTP POST e manipular a planilha.
 
-
-
+<img width="1252" height="703" alt="image" src="https://github.com/user-attachments/assets/216439b4-f23c-4ea7-91eb-220f5c6fb09c" />
 ---
 
 ###Esquema de Ligação (Pinagem)

@@ -107,7 +107,7 @@ GND
 
 GND
 
-Terra💻 Estrutura do Fluxo (Node-RED)
+### Estrutura do Fluxo (Node-RED)
 O fluxo no Node-RED segue a seguinte lógica:
 MQTT In: Subscreve ao tópico meu_projeto/sensores no broker HiveMQ.
 JSON Node: Converte o payload recebido (String) em um objeto JavaScript.
@@ -117,6 +117,12 @@ Planilha: Crie uma planilha no Google e adicione o script fornecido no repositó
 Implantação: Publique o script como "App da Web" e configure o acesso para "Qualquer pessoa".
 Node-RED: Importe o fluxo (JSON disponível na pasta /node-red) e configure a URL do seu App da Web no nó HTTP Request.
 Hardware: Carregue o código (.ino) no seu ESP32, ajustando as credenciais de Wi-Fi.
+
+### Esquema Node-RED
+<img width="700" height="387" alt="image" src="https://github.com/user-attachments/assets/24a393d6-f73a-4ded-a0ed-fa4ca1343ec0" />
+
+### Esquema Wokwi
+<img width="714" height="677" alt="image" src="https://github.com/user-attachments/assets/62b83e0a-f834-4a88-9706-64eda63330a1" />
 
 
 ### Fluxograma

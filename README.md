@@ -7,21 +7,6 @@
 
 ---
 
-## 👥 Autores
-
-
-| <img loading="lazy" src="https://avatars.githubusercontent.com/u/255575500?v=4" width="115"><br><sub><a href="https://github.com/luclc13241">Lucas G. S. Nardes</a><br><span style="color:#00BFFF">💻 Desenvolvedor</span></sub> | <img loading="lazy" src="https://github.com/kauamdsouza.png" width="115"><br><sub><a href="https://github.com/kauamdsouza">Kaua M. De Souza</a><br><span style="color:#00BFFF">💻 Desenvolvedor</span></sub> | <img loading="lazy" src="https://avatars.githubusercontent.com/u/260971572?v=4" width="115"><br><sub><a href="https://github.com/AdrianEccel">Adrian Rebinski</a><br><span style="color:#00BFFF">🛵 Front-end</span></sub> | 
-| :---: | :---: | :---: |
-
-## Commit Leaderboard (últimos 30 dias)
-
-| Rank | Commits | Author |
-|------|---------|--------|
-| 1 | 7 | Lucas Gabriel Da Silva Nardes |
-| 2 | 6 | Kaua Martins De Souza |
-| 3 | -4 | Adrian Rebinski |
----
-
 ## Overview
 
 Este projeto consiste em um sistema de monitoramento de dados ambientais e de controle utilizando o microcontrolador ESP32. O sistema realiza a leitura de múltiplos sensores (analógicos e digitais) e envia as informações via protocolo MQTT para um fluxo no Node-RED. O objetivo final é o armazenamento e histórico desses dados em uma planilha do Google Sheets, garantindo uma gestão eficiente do banco de dados através de um script de limpeza automática que mantém apenas os últimos 100 registros.
